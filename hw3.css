@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+   margin-left: 700px;
+}
+.logo span{
+    color: gold;
+}
+.ha{
+    width: 300px;
+    height: 300px;
+    margin-top: px;
+    transition: 0.5s;
+    margin-left:290px;
+}
+.ha:hover{
+}
+.ha1{
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    transition: 0.5s;
+    margin-left:20px;
+}
+.ha2{
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    transition: 0.5s;
+    margin-left: 20px;
+}
+.ha3{
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    transition: 0.5s;
+    margin-left: 290px;
+}
+.ha4{
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    transition: 0.5s;
+    margin-left: 20px;
+}
+.ha5{
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    transition: 0.5s;
+    margin-left: 20px;
+}

@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    display: flex;
+}
+.log{
+    text-align: center;
+    margin-top: 60px;
+}
+.log h1{
+
+    font-size:70px;
+    font-weight: 400;
+}
+.log h1 span{
+    color: gold;
+}
+.services{
+    width: 335px;
+    height: 440px;
+    background: whitesmoke;
+    margin: 90px;
+    margin-top: 50px;
+    border:none ;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+.services:hover{
+    transform: translate(10px, 5px)(30deg);
+    transition: 0.5s;
+}
+.scissor{
+    margin: 30px ;
+    margin-left: 115px;
+    width:  90px;
+    height: 110px;
+    background: rgba(43, 34, 34, 0.288);
+    border-radius: 10px;
+}
+.og{
+    text-align: center;
+    padding: 30px;
+    color: black;
+    font-weight: 300;
+}
+.pi{
+    text-align: center;
+   padding-left: 70px;
+    width: 75%;
+}
+.services2{
+    width: 335px;
+    height: 440px;
+    background: dodgerblue;
+    margin: 90px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 25px;
+}
+.scissor2{
+    margin: 30px ;
+    margin-left: 115px;
+    width:  90px;
+    height: 110px;
+    background: white;
+    border-radius: 10px;
+}
+.og{
+    text-align: center;
+    padding: 30px;
+    color: black;
+    font-weight: 300;
+}
+.pi{
+    text-align: center;
+   padding-left: 70px;
+    width: 75%;
+}
+.services3{
+    width: 335px;
+    height: 440px;
+    background: whitesmoke;
+    margin: 90px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 25px;
+}
+.scissor3{
+    margin: 30px ;
+    margin-left: 115px;
+    width:  90px;
+    height: 110px;
+    background: rgba(43, 34, 34, 0.288);
+    border-radius: 10px;
+}
+.og{
+    text-align: center;
+    padding: 30px;
+    color: black;
+    font-weight: 300;
+}
+.pi{
+    text-align: center;
+   padding-left: 70px;
+    width: 75%;
+}

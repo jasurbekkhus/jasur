@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bek{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.btn{
+    width: 170px;
+    height: 40px;
+    background: #99baed;
+    border: none;
+    border-radius: 10px;
+    margin: left 500px;
+    box-shadow: 5px 5px 15px #99baed;
+}
+.scissor{
+    margin-left:690px;
+    margin-top: 300px;
+}
+.pi{
+    text-align: center;
+    width: 20%;
+    margin-left: 630px;
+    margin-top: 50px;
+}
+.icons{
+    font-size: 40px;
+    margin-left: 680px;
+    margin-top: 40px;
+    color: #99baed;
+}
+.icons i{
+    margin-left: 20px;
+}
